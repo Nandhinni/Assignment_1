@@ -1,0 +1,49 @@
+li
+{   text-decoration: underline;
+	display: inline;
+	padding-right: 20px;
+	
+	float: right;
+	/*padding-bottom: 0PX;*/
+	font-size: 20px
+	padding-top:20%;
+	
+}
+ul a:hover
+{
+   color:#AC1B8D;
+}
+
+body {
+        font-family: 'Open Sans', serif;
+        font-size: 24px;
+      }
+header
+{
+	/*background-color: yellow;*/
+}
+
+.part1
+{
+	background-color: #C9C3C8;
+	
+	
+}
+img
+{
+	width:960px;
+	height:400px;
+}
+h1
+{
+	font-size: 40px;
+}
+.part2
+{    
+	background-color: #776662;
+	}
+.part3
+{
+	padding-top: 10px;
+	background-color: grey;
+}
